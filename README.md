@@ -9,5 +9,13 @@ These codes are on the following topics:
     * Initialize attributes
     * Create instances
 * Data Structures 
+   * Number equations 
+   * Indexing
+   * Slicing
+   * Tuple
 * Methods and Functions
+   * append()
+   * count()
+   * Arguments 
+   * Return 
 * Generators 
