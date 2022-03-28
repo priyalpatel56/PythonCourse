@@ -19,3 +19,6 @@ These codes are on the following topics:
    * Arguments 
    * Return 
 * Generators 
+   * Cube of function 
+   * Square of function
+   * iter()
